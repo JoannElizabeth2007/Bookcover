@@ -53,7 +53,7 @@ Publish the website in the LocalHost.
     .book-cover {
       width: 400px;
       height: 600px;
-      background: palevioletred;
+      background: rgb(158, 52, 52);
       border: 2px solid #333;
       padding: 40px 30px;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -101,22 +101,23 @@ Publish the website in the LocalHost.
 <body>
   <div class="book-cover">
     <div>
-      <div class="title">The Psychology of Simplicity</div>
+      <div class="title">A Book of Roses</div>
       <div class="line"></div>
-      <div class="subtitle">Understanding the beauty of less</div>
+      <div class="subtitle">the story of Montserrat, a foundling left in a Catalonian chapel at the feet of the Virgin de Montserrat</div>
     </div>
     <div class="image">
-        <img src="https://img.freepik.com/free-vector/flat-world-mental-health-day-background_23-2149634438.jpg?t=st=1744720480~exp=1744724080~hmac=f1760139b6a1644521a6843c7039f2b45bdc688d25f4f3a479e1d59dcfad5515&w=1380" length="10%" width="100%">
+        <img src="rose.jpg" length="10%" width="100%">
     </div>
-    <div class="author">By Morgan Simplar</div>
+    <div class="author">By William Logan</div>
   </div>
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
